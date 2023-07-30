@@ -7,4 +7,5 @@
 <!---
 Amos8p/Amos8p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->![20230729_033639](https://github.com/Amos8p/Amos8p/assets/140926165/0db38729-823c-407a-992c-d7ce8324ea3c)
+
